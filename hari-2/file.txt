@@ -1,0 +1,4 @@
+Hello world
+1, 2, 3
+deny
+{'age': '22', 'name': 'deny', 'email': 'deny@kompas.com'}
